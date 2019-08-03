@@ -8,4 +8,8 @@ Python 3
 Ubuntu 18.04
 
 # Setup
-sudo python3 exec.py
+sudo python3 setup.py
+or
+git clone https://github.com/lemoinemeddy/autoinstall_flutter.git
+cd autoinstall_flutter
+./setup.py
